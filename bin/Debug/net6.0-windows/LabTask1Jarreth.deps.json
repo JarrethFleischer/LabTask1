@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LabTask1Jarreth/1.0.0": {
+        "runtime": {
+          "LabTask1Jarreth.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LabTask1Jarreth/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
